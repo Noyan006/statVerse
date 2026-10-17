@@ -1,0 +1,6 @@
+{
+  "name": "StatVerse — Interactive Statistics & Data Science Platform",
+  "description": "Bilingual (English & বাংলা) interactive statistics and data science learning platform featuring guided lessons, simulations, calculators, coding labs, and AI tutor StatBot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
